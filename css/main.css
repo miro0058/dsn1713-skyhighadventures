@@ -1,1 +1,41 @@
-      
+.navbar{
+    background-color: #898A5B; 
+} 
+
+.navbar-item{
+    background-color:#eab568; 
+    color: white;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+#hero{
+    background-image: url(../images/moutains_fall.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+.d-flex{
+    height: 70vh;
+}
+
+.display-1{
+    font-weight: 500;
+}
+
+.btn{
+    background-color:#eab568; 
+    color: white;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+

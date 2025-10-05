@@ -1,60 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 792 792">
-  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.96 155.96">
   <defs>
     <style>
-      .st0, .st1, .st2, .st3, .st4, .st5 {
-        stroke-width: 5.08px;
+      .cls-1 {
+        fill: #898a5b;
       }
 
-      .st0, .st1, .st2, .st3, .st5 {
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
         stroke: #231f20;
+        stroke-width: 1.19px;
       }
 
-      .st0, .st2 {
-        stroke-linejoin: round;
-      }
-
-      .st0, .st4 {
-        fill: #fff;
-      }
-
-      .st1 {
-        fill: #231f20;
-      }
-
-      .st1, .st3, .st4, .st5 {
+      .cls-2, .cls-5, .cls-6 {
         stroke-linecap: round;
         stroke-miterlimit: 10;
       }
 
-      .st2, .st3 {
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-5 {
         fill: #9b8579;
       }
 
-      .st4 {
-        stroke: #9b8579;
-      }
-
-      .st5 {
-        fill: none;
+      .cls-6 {
+        fill: #231f20;
       }
     </style>
   </defs>
-  <ellipse class="st4" cx="396.52" cy="400.97" rx="372.81" ry="376.57"/>
+  <rect class="cls-1" width="155.96" height="155.96"/>
   <g>
-    <path class="st2" d="M632.91,598.89l-223.07,3.84-223.07-3.84c-29.27-.51-47.44-31.99-33.25-57.59l108.21-195.11,74.1-123.4c-.05.95-.1,1.91-.14,2.88,0,0,39.49,49.05,78.16,0,0,0,41.89,50.82,71.7,0l72.38,120.53,108.21,195.11c14.19,25.6-3.99,57.08-33.25,57.59Z"/>
-    <line class="st5" x1="345.13" y1="603.32" x2="345.13" y2="687.48"/>
-    <ellipse class="st3" cx="320.5" cy="687.48" rx="24.64" ry="14.72"/>
-    <line class="st5" x1="494.73" y1="603.32" x2="494.73" y2="687.48"/>
-    <ellipse class="st3" cx="470.09" cy="687.48" rx="24.64" ry="14.72"/>
-    <path class="st5" d="M577.88,382.13s44.87-25.77,53.98-66.82"/>
-    <ellipse class="st3" cx="635.77" cy="315.31" rx="14.72" ry="24.64" transform="translate(25.91 678.21) rotate(-57.13)"/>
-    <path class="st5" d="M166.16,327.67s1.13,55.99,68.12,68.01"/>
-    <path class="st5" d="M394.56,382.13s22.02,35.78,52.99,0"/>
-    <circle class="st1" cx="373.58" cy="349.73" r="16.21"/>
-    <circle class="st1" cx="463.76" cy="349.73" r="16.21"/>
-    <path class="st0" d="M485.57,225.67c-29.81,50.82-71.7,0-71.7,0-38.68,49.05-78.16,0-78.16,0,.03-.96.08-1.93.14-2.88l40.76-67.86c15.06-25.09,51.43-25.09,66.49,0l42.48,70.74Z"/>
-    <ellipse class="st3" cx="170.2" cy="321.41" rx="14.72" ry="24.64" transform="translate(-192.13 289.95) rotate(-57.13)"/>
+    <path class="cls-4" d="M131.34,121.03l-52.25.9-52.25-.9c-6.86-.12-11.11-7.49-7.79-13.49l25.34-45.7,17.36-28.9c-.01.22-.02.45-.03.67,0,0,9.25,11.49,18.31,0,0,0,9.81,11.9,16.79,0l16.95,28.23,25.34,45.7c3.32,6-.94,13.37-7.79,13.49Z"/>
+    <line class="cls-2" x1="63.94" y1="122.06" x2="63.94" y2="141.78"/>
+    <ellipse class="cls-5" cx="58.17" cy="141.78" rx="5.77" ry="3.45"/>
+    <line class="cls-2" x1="98.98" y1="122.06" x2="98.98" y2="141.78"/>
+    <ellipse class="cls-5" cx="93.21" cy="141.78" rx="5.77" ry="3.45"/>
+    <path class="cls-2" d="M118.45,70.26s10.51-6.03,12.64-15.65"/>
+    <ellipse class="cls-5" cx="132.01" cy="54.61" rx="3.45" ry="5.77" transform="translate(14.5 135.85) rotate(-57.13)"/>
+    <path class="cls-2" d="M22.02,57.5s.26,13.11,15.96,15.93"/>
+    <path class="cls-2" d="M75.52,70.26s5.16,8.38,12.41,0"/>
+    <circle class="cls-6" cx="70.6" cy="62.67" r="3.8"/>
+    <circle class="cls-6" cx="91.72" cy="62.67" r="3.8"/>
+    <path class="cls-3" d="M96.83,33.61c-6.98,11.9-16.79,0-16.79,0-9.06,11.49-18.31,0-18.31,0,0-.23.02-.45.03-.67l9.55-15.89c3.53-5.88,12.05-5.88,15.57,0l9.95,16.57Z"/>
+    <ellipse class="cls-5" cx="22.97" cy="56.04" rx="3.45" ry="5.77" transform="translate(-36.56 44.92) rotate(-57.13)"/>
   </g>
 </svg>
