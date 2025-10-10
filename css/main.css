@@ -1,25 +1,42 @@
+:root{
+    --primary: #898A5B;
+    --bs-primary-rgb: 137, 138, 91; 
+  --secondary: #eab568;
+  --bs-secondary-rgb: 234, 181, 104; 
+  --light: #FFFFFF;
+  --bs-light-rgb: 225, 225, 225; 
+  --dark: #9C8679;
+  --bs-dark-rgb: 156, 134, 121; 
+}
+
 .navbar{
-    background-color: #898A5B; 
+    background-color: var(--primary); 
 } 
 
 .navbar-item{
-    background-color:#eab568; 
-    color: white;
+    background-color: var(--secondary); 
+    color: var(--light);
     border-radius: 8px;
     font-weight: 500;
 }
 
 #hero{
-    background-image: url(../images/moutains_fall.jpg);
+    background-image: url(../images/hiking.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: black;
-    
+    background-color: var(--dark);
+    height: 70vh;
+}
+
+.container-fluid{
+    padding: 0;
 }
 
 .d-flex{
-    height: 70vh;
+    background-color: var(--bs-tertiary-color);
+    width: 100vw;
+    height: 50vh;
 }
 
 .display-1{
@@ -27,8 +44,8 @@
 }
 
 .btn{
-    background-color:#eab568; 
-    color: white;
+    background-color: var(--secondary); 
+    color: var(--light);
     border-radius: 8px;
     font-weight: 500;
 }
